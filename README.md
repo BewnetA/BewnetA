@@ -44,8 +44,8 @@ A real-time dashboard with secure auth, charts, and API integrations. Built with
 ## 🌍 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Hashnode&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bewnet-addisalem-84552a29b/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=Hashnode&logoColor=white)](https://t.me/habb_dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---

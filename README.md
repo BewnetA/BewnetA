@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Bewnet Addisalem** — Fullstack & Bot Developer
+<h1 align="center">👋 Hey there! I'm <span style="font-weight:bold">Bewnet Addisalem </span> — Fullstack & Bot Developer </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&vCenter=true&width=435&lines=Fullstack+%7C+Bot+Developer;FastAPI+%7C+React+%7C+Tailwind+%7C+Python;Clean+Code+%2B+Automation+Enthusiast" alt="Typing SVG" />
+</p>
 
 Passionate about building scalable APIs, sleek UIs, and automating workflows with bots. I love creating fast, functional, and beautiful digital experiences using modern tools and frameworks.
 

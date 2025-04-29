@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="font-weight:bold">Bewnet Addisalem </span> — Fullstack & Bot Developer </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5D4&vCenter=true&width=700&lines=Fullstack+%7C+Bot+Developer;FastAPI+%2B+React+%2B+Tailwind+%2B+Python;Clean+Code+%2B+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5D4&vCenter=true&width=700&lines=Fullstack+%7C+Bot+Developer;FastAPI+%2B+React+%2B+Tailwind+%2B+Python;Tech+Enthusiast+%26+Open+Source+Lover;Clean+Code+Practitioner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 
